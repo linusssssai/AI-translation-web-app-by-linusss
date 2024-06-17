@@ -1,3 +1,18 @@
+import sys
+import translation_agent as ta
+
+# 确保脚本使用UTF-8编码
+sys.stdout.reconfigure(encoding='utf-8')
+
+source_lang = "English"
+target_lang = "Spanish"
+country = "Mexico"
+source_text = "Hello, how are you?"
+
+translation = ta.translate(source_lang, target_lang, source_text, country)
+print(f"Translated text: {translation}")
+
+
 import os
 
 import translation_agent as ta
