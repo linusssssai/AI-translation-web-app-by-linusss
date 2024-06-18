@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Translation Agent: Agentic translation using reflection workflow
 
 This is a Python demonstration of a reflection agentic workflow for machine translation. The main steps are:
@@ -71,3 +72,7 @@ A few academic research groups are also starting to look at LLM-based and agenti
 - *Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts*, Wu et al. (2024),  https://arxiv.org/pdf/2405.11804
 
 
+=======
+# AI translation web app by linusss
+ high quality translation through LLMs
+>>>>>>> origin/main
